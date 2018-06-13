@@ -1,3 +1,8 @@
 Só testando o GitHub
 
 Uau, professor! O Git é mesmo impressionante.
+
+git clone [link do repositorio no GitHub]
+git push
+git pull
+
