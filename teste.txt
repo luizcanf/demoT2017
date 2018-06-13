@@ -1,5 +1,5 @@
 Git é massa.
-Só testando o GitHub
+Testando o GitHub junto com o git.
 
 Uau, professor! O Git é mesmo impressionante.
 
