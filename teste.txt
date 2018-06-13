@@ -1,5 +1,5 @@
 Git é massa.
-Testando o GitHub junto com o git.
+Testando git clone/pull/push junto com o GitHub
 
 Uau, professor! O Git é mesmo impressionante.
 
